@@ -12,7 +12,7 @@ Explanation: The chart breaks down profits by item type. Cosmetics dominate the 
 Conclusion: Investing in high-margin categories like Cosmetics and Household items can enhance profitability. Simultaneously, exploring ways to improve margins in lower-performing categories may diversify profit sources.
 
 
-<img width="219" alt="sum of total profit by item" src="https://github.com/user-attachments/assets/acc2790d-43bc-4af7-8045-f33574e5a08a">
+<img width="300" height="200" alt="sum of total profit by item" src="https://github.com/user-attachments/assets/acc2790d-43bc-4af7-8045-f33574e5a08a">
 
 
 
