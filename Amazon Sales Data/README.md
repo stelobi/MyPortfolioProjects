@@ -12,7 +12,7 @@ Explanation: The chart breaks down profits by item type. Cosmetics dominate the 
 Conclusion: Investing in high-margin categories like Cosmetics and Household items can enhance profitability. Simultaneously, exploring ways to improve margins in lower-performing categories may diversify profit sources.
 
 
-<img width="300" height="200" alt="sum of total profit by item" src="https://github.com/user-attachments/assets/acc2790d-43bc-4af7-8045-f33574e5a08a">
+<img width="1000" height="800" alt="sum of total profit by item" src="https://github.com/user-attachments/assets/acc2790d-43bc-4af7-8045-f33574e5a08a">
 
 
 
@@ -21,20 +21,44 @@ Explanation: This map visualizes the distribution of units sold across countries
 
 Conclusion: Amazon's market penetration aligns with population and economic activity. Efforts to expand distribution networks in less-covered regions may increase sales volumes.
 
+
+
+<img width="1000" height="800" alt="units sold by country" src="https://github.com/user-attachments/assets/4b0898e2-db23-4269-8399-04da6d27ab4f">
+
+
+
+
 **4. Sum of Total Cost by Sales Channel**
 Explanation: The pie chart shows that offline sales account for a higher portion of the total cost compared to online sales. This disparity might reflect higher logistics and operational expenses associated with offline channels.
 
 Conclusion: Shifting more sales to online channels could optimize costs, leveraging economies of scale and reduced operational overheads.
+
+
+<img width="1000" height="500" alt="total cost by channel" src="https://github.com/user-attachments/assets/069a1a71-5679-49b2-bc7c-daef6080ffeb">
+
+
+
 
 **5. Sum of Total Profit by Sales Channel**
 Explanation: Online channels generate slightly less profit compared to offline channels despite lower costs, indicating a potential gap in pricing strategy or market reach.
 
 Conclusion: Refining the online sales strategy, perhaps through premium pricing or increased marketing, could help bridge the profit gap while maintaining cost efficiency.
 
+
+
+<img width="211" alt="Screenshot_5" src="https://github.com/user-attachments/assets/2b601bf2-3f45-4021-9494-5135f10ff01c">
+
+
+
 **6. Sum of Units Sold by Year, Quarter, Month, and Day**
 Explanation: This temporal analysis showcases sales trends over time. Peaks likely correspond to seasonal or promotional periods, whereas dips might indicate off-season trends.
 
 Conclusion: To maximize revenue, strategies such as dynamic pricing, targeted marketing, or inventory adjustments should focus on peak periods. Initiatives to stimulate sales during dips can also stabilize revenue streams.
+
+
+<img width="209" alt="Screenshot_6" src="https://github.com/user-attachments/assets/bf9e82e3-e644-4e05-bf1e-5e94cce63404">
+
+
 
 **7. Sum of Total Revenue by Item Type**
 Explanation: The bar chart outlines the revenue contributions of different item types, with Cosmetics, Office Supplies, and Household items leading the way. Baby Food and Clothes also show moderate contributions.
