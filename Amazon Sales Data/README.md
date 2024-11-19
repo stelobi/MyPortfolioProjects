@@ -46,7 +46,7 @@ Conclusion: Refining the online sales strategy, perhaps through premium pricing 
 
 
 
-<img width="211" alt="Screenshot_5" src="https://github.com/user-attachments/assets/2b601bf2-3f45-4021-9494-5135f10ff01c">
+<img width="1000" height="500" alt="Screenshot_5" src="https://github.com/user-attachments/assets/2b601bf2-3f45-4021-9494-5135f10ff01c">
 
 
 
@@ -56,7 +56,8 @@ Explanation: This temporal analysis showcases sales trends over time. Peaks like
 Conclusion: To maximize revenue, strategies such as dynamic pricing, targeted marketing, or inventory adjustments should focus on peak periods. Initiatives to stimulate sales during dips can also stabilize revenue streams.
 
 
-<img width="209" alt="Screenshot_6" src="https://github.com/user-attachments/assets/bf9e82e3-e644-4e05-bf1e-5e94cce63404">
+
+<img width="1000" height = "650" alt="year month day" src="https://github.com/user-attachments/assets/12228f5e-ac85-4fb0-97ac-7e3cd04a969f">
 
 
 
@@ -65,27 +66,56 @@ Explanation: The bar chart outlines the revenue contributions of different item 
 
 Conclusion: Concentrating on high-revenue categories can drive growth. Enhancing the product mix for lower-revenue categories could further boost total revenue.
 
+
+<img width="1000" height="650" alt="total revenue by item type" src="https://github.com/user-attachments/assets/49b7971f-a0fa-43b9-a62a-ed60b0598f8c">
+
+
+
 **8. Count of Order Priority by Region**
 Explanation: This chart categorizes orders by priority across regions. Higher-priority orders appear concentrated in specific regions, suggesting regional variations in customer urgency or service levels.
 
 Conclusion: Regions with a higher proportion of high-priority orders may require optimized supply chain and logistics solutions to ensure timely deliveries.
+
+
+<img width="1000" height="900" alt="order priority by region" src="https://github.com/user-attachments/assets/86a6ef16-4bfb-41d5-bb77-af64b6a31b4e">
+
+
 
 **9. Sum of Unit Price by Region**
 Explanation: Unit price variations across regions indicate differences in pricing strategies or market demand. Sub-Saharan Africa has the highest unit price, suggesting either a premium pricing model or a focus on higher-value items.
 
 Conclusion: Analyzing the price elasticity of demand in different regions can refine pricing strategies and align with customer preferences.
 
+
+<img width="600" height="400" alt="unit price by region" src="https://github.com/user-attachments/assets/71b4cabc-a3f2-470d-9f00-de0367e2157b">
+
+
+
+
 **10. Sum of Total Cost by Item Type**
 Explanation: Office Supplies, Household, and Cosmetics dominate total costs, reflecting their significant share in sales volume or high procurement costs.
 
 Conclusion: Cost-saving initiatives in these high-expense categories, such as supply chain optimization or vendor negotiations, could enhance profit margins.
+
+
+<img width="500" height="750" alt="total cost by item type" src="https://github.com/user-attachments/assets/f274a87a-1f93-4edd-989a-5321a33c64d2">
+
+
 
 **11. Sum of Total Profit by Item Type and Sales Channel**
 Explanation: The chart compares profits by item type across sales channels. Offline sales generally outperform online sales in profit generation for most categories.
 
 Conclusion: Targeted online sales strategies—such as exclusive deals, personalized recommendations, or better product visibility—may boost profitability.
 
+
+<img width="500" height="500" alt="total profit by item type" src="https://github.com/user-attachments/assets/bfa3b030-b6ab-4c39-8a70-98243ee3fc10">
+
+
+
 **12. Sum of Total Profit by Order Priority and Item Type**
 Explanation: High-priority orders contribute more significantly to profits, especially for categories like Baby Food and Cosmetics, while low-priority orders generate relatively smaller margins.
 
 Conclusion: Prioritizing high-profit, high-priority orders and streamlining fulfillment processes for these categories can optimize overall profitability.
+
+<img width="1000" height="500" alt="profit by order prior" src="https://github.com/user-attachments/assets/4e0933fc-7721-4e8d-8682-0f11c04388e3">
+
